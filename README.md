@@ -125,16 +125,14 @@
 </table>
 
 
-##  DSA & Problem Solving Achievements
-
 ###  **1207+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 5 | - |
+| **CodeChef** | 387 | 1125 |
+| **CodeForces** | - | - |
+| **GeeksForGeeks** | - | - |
 
 ###  **Hackathon Achievements**
 - **1st Place** - CodeSmash (Inter-college DSA Hackathon)
