@@ -134,11 +134,6 @@
 | **CodeForces** | - | - |
 | **GeeksForGeeks** | - | - |
 
-###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
-
----
 
 ##  GitHub Analytics
 
